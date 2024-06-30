@@ -1,0 +1,1 @@
+20240626	06:07:52	bfafe9fc-1639-4961-bd20-7c293bcc1c63	TypeError: authHeader.aplit is not a function
